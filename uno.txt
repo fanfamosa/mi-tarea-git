@@ -1,2 +1,7 @@
 ..
+HEAD
+dos
+tres
+=======
 uno
+e7b2e74a637c18bc88aa94d9bc6188283d74633d
